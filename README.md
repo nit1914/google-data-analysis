@@ -3,8 +3,6 @@ This repository contains my beginner-friendly project for Google Data Analysis, 
 <br>
 Key Features:
 <br>
-* Data Cleaning: Importing datasets, handling missing values, and preparing data for analysis.
-
-* Exploratory Data Analysis (EDA): Using Python libraries (like pandas and matplotlib) for summarizing data, visualizing trends, and discovering insights.
-
+* Data Cleaning: Importing datasets, handling missing values, and preparing data for analysis.<br>
+* Exploratory Data Analysis (EDA): Using Python libraries (like pandas and matplotlib) for summarizing data, visualizing trends, and discovering insights.<br>
 * Visualization: Creating charts and plots (bar graphs, line charts) for intuitive understanding.
